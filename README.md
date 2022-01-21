@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 I'm Andy, a high school student and developer from New York, NY. The majority of my repos here as of right now are from my high school computer science classes, although I do have a few side projects here. I usually program in Swift, Python, and C, although I also have experience programming in Java, C#, and Luau (Roblox's fork of Lua).
 
-![Andy's Stats](https://github-readme-stats.vercel.app/api?username=andylin2004&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
-![Andy's Stats](https://github-readme-stats.vercel.app/api?username=andylin2004&show_icons=true&count_private=true&theme=light#gh-light-mode-only)
+![Andy's Stats](https://github-readme-stats.vercel.app/api?username=andylin2004&show_icons=true&count_private=true&theme=light)
